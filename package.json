@@ -1,6 +1,6 @@
 {
 	"name": "@microsoft/gulp-core-build",
-	"version": "3.17.13",
+	"version": "3.17.11",
 	"private": true,
 	"description": "Core gulp build tasks for building typescript, html, less, etc.",
 	"repository": {
